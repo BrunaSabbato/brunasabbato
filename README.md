@@ -1,10 +1,9 @@
 ### Olá, sou a Bruna Sabbato ☺💻
 
-- 👩‍🎓 Curso faculdade de Ciência da Computação / I'm studying computer science at college
-- 🧠 Atualmente estou estudando JavaScript / I’m currently learning JavaScript
-- 🤔 Procuro ajuda em back-end / I’m looking for help with back-end
-- 🌎 Sei falar e ler em inglês / I know how to speak and read in english
-- ⚡ Fun fact: ...
+- 👩‍🎓 Faço faculdade de Ciência da Computação
+- 🧠 Atualmente estou estudando JavaScript
+- 🤔 Procuro ajuda em back-end
+- 🌎 Sei falar e ler em inglês
 
 
 <div align="center">
