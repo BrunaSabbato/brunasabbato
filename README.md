@@ -2,8 +2,8 @@
 
 - 👩‍🎓 Faço faculdade de Ciência da Computação
 - 🧠 Atualmente estou estudando JavaScript
-- 🤔 Procuro ajuda em back-end
-- 🌎 Sei falar e ler em inglês
+- 🤔 Procuro aprender mais de back-end
+- 🌎 Inglês avançado
 
 
 <div align="center">
