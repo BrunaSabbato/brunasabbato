@@ -1,9 +1,9 @@
 ### Olá, sou a Bruna Sabbato ☺💻
 
-- 👩‍🎓 Faço faculdade de Ciência da Computação
-- 🧠 Atualmente estou estudando JavaScript
-- 🤔 Procuro aprender mais de back-end
-- 🌎 Inglês avançado
+- 👩‍🎓 Computer Science Student │ Web Designer Beginner
+- 🧠 HTML5 │ CSS3 │ learning JS 
+- 🤔 Always learning more about Front-End
+- 🌎 Advanced English │ Basic Spanish │ Fluent Portugues - BR
 
 
 <div align="center">
