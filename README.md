@@ -1,9 +1,9 @@
 ### Olá, sou a Bruna Sabbato ☺💻
 
-- 👩‍🎓 Computer Science Student │ Web Designer focus on Front-end dev
-- 🧠 HTML5 │ CSS3 │ learning JS | PHP and MySQL | Bootstrap | learning React.js | Python
-- 🤔 Always learning more about Front-End and 3D modeling (for hobby)
-- 🌎 Advanced English │ Basic Spanish │ Fluent Portugues - BR
+- 🎓 Bachelor’s Degree in Computer Science │ Full-Stack Developer │ Currently studying Cybersecurity
+- 🧠 Python | HTML | CSS | JS │ Vue.js │ Learning more about Cybersecurity
+- 🤔 Always learning more about technology │ 3D modeling (hobby)
+- 🌎 Advanced English │ Basic Spanish │ Fluent Portuguese - BR  
 
 
 <div align="center">
